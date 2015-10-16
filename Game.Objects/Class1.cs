@@ -12,7 +12,6 @@ namespace Game.Objects
     }
 
 
-
     class AnObject {
 
     }
